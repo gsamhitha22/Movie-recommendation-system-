@@ -1,0 +1,1 @@
+Developed a personalized movie recommendation system using collaborative filtering and content-based filtering techniques. The system suggests movies to users based on their past preferences and the preferences of similar users, as well as the attributes of movies they’ve liked.
